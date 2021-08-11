@@ -7,3 +7,5 @@
 ## Model repo
 
 - [chuanqi305/MobileNet-SSD](https://github.com/chuanqi305/MobileNet-SSD)
+- Put `MobileNetSSD_deploy.caffemodel` and `MobileNetSSD_deploy.prototxt` in `app/models`.
+- Put `test.jpg` in root directory.
